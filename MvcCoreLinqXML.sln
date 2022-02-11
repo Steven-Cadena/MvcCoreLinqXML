@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreLinqXML", "MvcCoreLinqXML\MvcCoreLinqXML.csproj", "{0CDF104D-D68E-4C14-BDF2-8852A91CB4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDF104D-D68E-4C14-BDF2-8852A91CB4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDF104D-D68E-4C14-BDF2-8852A91CB4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDF104D-D68E-4C14-BDF2-8852A91CB4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDF104D-D68E-4C14-BDF2-8852A91CB4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA87B5A5-9789-43EA-8189-682307434C24}
+	EndGlobalSection
+EndGlobal
